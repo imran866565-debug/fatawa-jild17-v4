@@ -1,0 +1,197 @@
+{
+ "chunks": [
+  {
+   "chunk": "01",
+   "description": "Jild 17, pp. 6-121",
+   "end_page": 121,
+   "file": "jild-17-chunk-01.json",
+   "items": 24,
+   "pages_present": 43,
+   "start_page": 6,
+   "status": "done",
+   "verified": "2026-11-18 ~14:37 PKT — coordinator verified: 24 items, pp.6-121, fold masala-33 [119,120,121] (sawal 1,111, jawab 2,771, notes 4), ids/titles/pages == v3 basis (fold uses merged-v3 id jild17-masala-33; verifier 'id sequence' flag is an artifact of comparing against the chunk file's jild17-33), vol 53, sp==min, 0 empty jawab, notes 55 vs 55, glosses 288x 'کا مطلب' + 22x 'کہتے ہیں' (310), A1=0, A2: سفیہ p.8 x2 (risala title), خبیث p.90, مردود pp.90/92/96/107; standalone کتا 0, 'جاری ہے' x0, 0 markers. PUA p.110 (U+E01E) — no quote affected, v3 flag note preserved. SHA 32d1fee4…."
+  },
+  {
+   "chunk": "02",
+   "description": "Jild 17, pp. 121-165",
+   "end_page": 165,
+   "file": "jild-17-chunk-02.json",
+   "items": 34,
+   "pages_present": 45,
+   "start_page": 121,
+   "status": "done",
+   "verified": "2026-11-18 ~14:37 PKT — coordinator verified: 34 items, pp.121-165, ids/titles/pages == v3 basis (masala-33 excluded), vol 53, sp==min, 0 empty jawab, notes 53 vs 53, glosses 348x 'کا مطلب' + 5x 'کہتے ہیں' (353), A1=0, A2: خبیث pp.128/130, مردود p.128 kept, 'جاری ہے' x2 in masala-60, BOTH legitimate (original's own Parbhani description: 'بذل و منع جاری ہے اور بیع و شرا بھی جاری ہے'), 0 markers. PUA pp.138/144/145 (verse-end mark after عَنْ تَرَاضٍ مِّنْكُمْ) — no reconstruction, v3 notes preserved. SHA 440bbbcc…."
+  },
+  {
+   "chunk": "03",
+   "description": "Jild 17, pp. 166-216",
+   "end_page": 216,
+   "file": "jild-17-chunk-03.json",
+   "items": 27,
+   "pages_present": 51,
+   "start_page": 166,
+   "status": "done",
+   "verified": "2026-11-18 ~14:37 PKT — coordinator verified: 27 items (masala-72 → masala-101), pp.166-216, ids/titles/pages == v3, vol 53, sp==min, 0 empty sawal/jawab, notes 32 vs 32, glosses 330x 'کا مطلب' + 4x 'کہتے ہیں' (334), A1=0, A2: احمق p167, خبیث p169, لعنت p191, مردود p198 kept; standalone کتا 0, 'جاری ہے' x0, 0 markers. SHA 36f1b463…."
+  },
+  {
+   "chunk": "04",
+   "description": "Jild 17, pp. 217-267",
+   "end_page": 267,
+   "file": "jild-17-chunk-04.json",
+   "items": 13,
+   "pages_present": 50,
+   "start_page": 217,
+   "status": "done",
+   "verified": "2026-11-18 ~14:37 PKT — coordinator verified: 13 items (masala-102 → 114), pp.217-267, ids/titles/pages == v3, vol 53, sp==min, 0 empty jawab (107 sawal empty by design, per its v3 note), notes 35 vs 32 (+3 added), glosses 388x 'کا مطلب' + 9x 'کہتے ہیں' (397), A1=0, A2: only harsh term 'سخت باطل و مردود' p.218 kept verbatim, 'جاری ہے' x0, 0 markers. Flags: p.242 absent from source DB (104 ends p.241, 105 starts p.243 — noted on 104); PUA pp.263/267 (U+E01E after مِنْكُمْ) — no reconstruction, noted in added notes on 110/114. SHA 45996387…."
+  },
+  {
+   "chunk": "05",
+   "description": "Jild 17, pp. 269-322",
+   "end_page": 322,
+   "file": "jild-17-chunk-05.json",
+   "items": 20,
+   "pages_present": 54,
+   "start_page": 269,
+   "status": "done",
+   "verified": "2026-11-18 ~14:37 PKT — coordinator verified: 20 items, pp.269-322, fold masala-141 [320,321,322] (sawal 520, jawab 3,638, notes 3 = 2 + 1 added fold note; fold uses merged-v3 id jild17-masala-141 — verifier 'id sequence' flag is an artifact vs chunk file's jild17-141), ids/titles/pages == v3 basis, vol 53, sp==min, 0 empty jawab, notes 40 vs 39 (+1), glosses 188x 'کا مطلب' + 1x 'کہتے ہیں' (189), A1=0, A2: ملعون p278 x2, لعنت pp.278/279/298, افتراء p316, فاسد pp.275/319/322 kept, 'جاری ہے' x0, 0 markers. Restorations: p.269 'خبیث و مردار' (dropped in v3, restored in 115); Arabic hadith 'لعن اللہ آکل الربا و موکلہ و کاتبہ و شاہدہ' restored in 125 (pp.278-279) and 131 (p.298). SHA 7982763f…."
+  },
+  {
+   "chunk": "06",
+   "description": "Jild 17, pp. 322-374",
+   "end_page": 374,
+   "file": "jild-17-chunk-06.json",
+   "items": 46,
+   "pages_present": 53,
+   "start_page": 322,
+   "status": "done",
+   "verified": "2026-11-18 ~14:50 PKT — coordinator verified: 46 items, pp.321-374, ids/titles/pages == v3 basis (fold 198 uses merged-v3 id/pages), vol 53, sp==min, 0 empty sawal/jawab, notes 55 vs 44 (+11: 10 identical بینوا توجروا notes in 06a + 1 PUA note in 06b), glosses 369x 'کا مطلب' + 35x 'کہتے ہیں' (404), A1=1 flag, false positive (183-184 رافضی + فرماتے ہیں — verb belongs to Ala Hazrat, رافضی the topic, Jild 16 leaf-12 precedent), 'جاری ہے' x0, 0 markers. Split recovery: full leaf killed TWO workers on token cap (first left invalid truncated JSON at char 47186; second left it unchanged) — split into 06a (items 2-24, pp.322-339, SHA 224f53ca…, glosses 159+3=162) + 06b (items 25-47, pp.339-374, SHA 175785b7… → fixed ec250d5e…, glosses 210+32=242), concatenated by the coordinator into jild-17-chunk-06.json, SHA 43eb104d…. Fold 198 [370-374]: sawal 2,403, jawab 5,428, notes 6 = c6 2 + c7 4 exactly in order; c6 sawal's trailing continues-sentence dropped; c6/c7 split-meta notes preserved verbatim (now stale, same class as Jild 10/11/12/13/14/16). A2: ظالم 5=5 after COORDINATOR RESTORATION — the Arabic ayah 'وَلَا تَعَاوَنُوْا عَلَى الْاِثْمِ وَالْعُدْوَانِ' + hadith 'من مشی مع ظالم لیعینہ وھو یعلم انہ ظالم فقد خلع من عنقہ ربقۃ الاسلام' (orig p.343) restored in 175-176, where v3 had Urdu only; کافر 33→48, مرتد 4→6, لعنت 8=8, ملعون 1=1, گمراہ 1=1 (extras are gloss repetitions). Open: the لعن hadith in 175-176 (orig p.343, 'لعن رسول اللہ… آکل الربا…') stays Urdu-only as in v3 — same class as Jild 14 masala-88-94. PUA p.355 flagged in an added note on 189, no reconstruction. SHA 43eb104d…."
+  },
+  {
+   "chunk": "07",
+   "description": "Jild 17, pp. 374-394",
+   "end_page": 394,
+   "file": "jild-17-chunk-07.json",
+   "items": 18,
+   "pages_present": 21,
+   "start_page": 374,
+   "status": "done",
+   "verified": "2026-11-18 ~14:37 PKT — coordinator verified: 18 items (masala-199 [374,375] → masala-216 [392-394]), pp.374-394, ids/titles/pages == v3 basis (masala-198 and masala-217 omitted), vol 53, sp==min, 0 empty sawal/jawab, notes 40 vs 40, glosses 309x 'کا مطلب' + 4x 'کہتے ہیں' (313), A1=0 (دیوبند/عزیز الرحمن/عبدالحی get plain لکھا; the one فرمایا near a name is رامپوری صاحب, a Sunni shagird, 205), A2: ملک خبیث 3 (203), بیوقوف 1 (205), کذاب 2 (207), لعنت 2 + کذب محض 2 (215), فاسد 6, کافر 1 (214), گمراہ 4; standalone کتا 0, 'جاری ہے' x0, 0 markers. SHA 2a217642…."
+  },
+  {
+   "chunk": "08a",
+   "description": "Jild 17, pp. 395-420",
+   "end_page": 420,
+   "file": "jild-17-chunk-08a.json",
+   "items": 1,
+   "pages_present": 26,
+   "start_page": 395,
+   "status": "done",
+   "verified": "2026-11-18 ~14:37 PKT — coordinator verified: 1 item, masala-217 part 1 [395-420] (26pp), sawal 2,549 (full merged v3 sawal), jawab 33,102, notes 10 (8 v3 + 2 added: PUA note 9, hashiya-name note 10), ids/titles/pages == merged v3, vol 53, sp==min, glosses 165x 'کا مطلب' + 12x 'کہتے ہیں' (177), A1=0, A2: فاسد 4 (orig 3 — extra is a gloss), ظالم 2, بے باک 3, جاہل 2, غریب 3, منکر 2, شاذ 2, باطل 5, 'جاری ہے' x1 legitimate ('جو مال میں جاری ہے سب اس میں جاری ہوتا ہے' — original's own sentence), 0 markers. PUA pp.403/420 (U+E01E after تجارت آیت) — no reconstruction, flagged in added note 9. Seam: jawab ends with the تجارت آیت + Urdu rendering. SHA 171343dc…."
+  },
+  {
+   "chunk": "08b",
+   "description": "Jild 17, pp. 421-470",
+   "end_page": 470,
+   "file": "jild-17-chunk-08b.json",
+   "items": 1,
+   "pages_present": 50,
+   "start_page": 421,
+   "status": "done",
+   "verified": "2026-11-18 ~14:37 PKT — coordinator verified + fixed: 1 item, masala-217 part 2 [421-470] (50pp, kasir-6..11), sawal 0, jawab 49,384, notes 21 = merged 9-29 verbatim, ids/titles/pages == merged v3, vol 53, sp==min, glosses 21x 'کا مطلب' + 5x 'کہتے ہیں' (26) after COORDINATOR FIX-UP (+2: سلم @10228, کراہت @31200 — first uses in this part were unglossed; قبض first use is everyday قبضہ and 'قبض حکمی' is glossed; سلم's first substring hit is وسلم durood; عینہ's first hit is بعینہ 'the very same', while بیع عینہ is defined definitionally at @38167), A1=0, A2: بہتان p.450 1=1, مجنون p.450 1=1, فاسد orig 2 → 3 (3rd is an added gloss), 'جاری ہے' x0, 0 markers. Worker removed kasir-11's trailing continues-sentence ('اور یہ بحث صفحہ 471 پر جاری ہے' — kept verbatim in note 23); parts join with no space after '۔' (merged-v3 convention). PUA p.448 flagged in note 26. Seam: opens 'اعلیٰ حضرت رحمۃ اللہ علیہ فرماتے ہیں کہ بیع کو شریعت نے اسی لیے جائز…', ends '…جائز اور ثواب کا کام ہے، اس لیے کہ اس میں حرام سے بھاگنا ہے۔' Worker SHA e5515b8f… SUPERSEDED; fixed SHA f74e1f13…."
+  },
+  {
+   "chunk": "08c",
+   "description": "Jild 17, pp. 471-502",
+   "end_page": 502,
+   "file": "jild-17-chunk-08c.json",
+   "items": 1,
+   "pages_present": 32,
+   "start_page": 471,
+   "status": "done",
+   "verified": "2026-11-18 ~14:37 PKT — coordinator verified (fix-up worker report received ~14:39 PKT and cross-checked against the file — consistent: SHA/gloss counts/A2 match; its 26-word gloss list verified present in the file; قرض gloss sits at 2nd use @5004, 313 chars after 1st use @4691, which is inside the عینہ definition where قرض is everyday usage — accepted): 1 item, masala-217 part 3 [471-502] (32pp), sawal 0, jawab 35,285, notes 14 = merged 30-43 verbatim, ids/titles/pages == merged v3, vol 53, sp==min, glosses 24x 'کا مطلب' + 9x 'کہتے ہیں' (33) — was 0+6=6 before the fix-up, A1=0, 'جاری ہے' x0, 0 markers. A3 spot-check: 22/25 listed words glossed at first use in this part; the 3 misses are false alarms (سلم's first hit is inside وسلم durood — both standalone occurrences ARE glossed; قرض is everyday 'loan' usage; صرف's first use is 'only'). Seam: opens 'دلیل کا سلسلہ آگے بڑھتا ہے کہ حرام سے بچنے کے لیے حیلہ کرنا مستحب ہے،' ends at the original p.502 ending. Worker SHA dfe7287a… SUPERSEDED; fixed SHA 603bbf7a…."
+  },
+  {
+   "chunk": "09",
+   "description": "Jild 17, pp. 502-504",
+   "end_page": 504,
+   "file": "jild-17-chunk-09.json",
+   "items": 1,
+   "pages_present": 3,
+   "start_page": 502,
+   "status": "done",
+   "verified": "2026-11-18 ~14:32 PKT — coordinator verified: 1 item, masala-218 [502,503,504], ids/titles/pages identical+order vs v3 chunk-09 minus the 7 excluded items, vol 53, sp==min, 0 empty jawab, 0 empty sawal (as v3), notes 5 vs 3 (+2 added, 0 missing: (a) p.503 Urdu \"دنوں کی ثمنیت\" is a print typo for \"دونوں کی ثمنیت\", tashreeh uses \"دونوں\"; (b) mujib signature \"العبد المجیب محمد ریاست علی\" vs fatwa header under Maulana Irshad Hussain Rampuri — both kept as in original), glosses 25x \"کا مطلب\" + 2x \"کہتے ہیں\" (27), A1=0 (no opponent names in this masala at all; only honorifics are \"فرماتے ہیں\" + \"رحمۃ اللہ علیہ\" for Maulana Irshad Hussain Rampuri (Sunni) and \"رحمہما اللہ\" for Imam Azam/Abu Yusuf), A2: original masala passage (p.502 \"فتوی حامی سنت\" to end p.504) contains ZERO harsh words — nothing to restore, none invented; raw \"کتا\" hit is only the کتاب substring; \"بیوقوف وہمی\" occurs only in the enclosing risala's title, not in this masala's text, correctly NOT imported. A3: all 25 checked hard words glossed definitionally at first use; \"فلس\"/\"درہم\" first occur inside the verbatim Arabic Hidaya quote and are glossed immediately in the following Urdu rendering. A4: both references kept in Arabic — full Hidaya quote + Radd al-Muhtar باب العینہ quote; all 11 tasdiq names + all tasdiq phrases (الجواب صواب/صحیح ×4, p.504 set) present in original order. \"جاری ہے\" x0, no markers. Flags: none."
+  },
+  {
+   "chunk": "09b",
+   "description": "Jild 17, pp. 505-520",
+   "end_page": 520,
+   "file": "jild-17-chunk-09b.json",
+   "items": 1,
+   "pages_present": 16,
+   "start_page": 505,
+   "status": "done",
+   "verified": "2026-11-18 ~14:35 PKT — coordinator verified + fixed: 1 item, masala-219 part 1 [505-520] (16pp), ids/titles/pages == merged v3, vol 53, sp==min, sawal empty (as v3), jawab 26,223ch (v3 concat 25,597; ratio 1.024 after fix-up), notes 12 = merged 1-12 verbatim, 0 added/altered/dropped, A1=1 flag, false positive (verb belongs to Ala Hazrat; \"جناب گنگوہی صاحب\" is the ORIGINAL's own wording, verified in original pp.505-520, 6x identical counts), A2: harsh-word parity holds vs original pp.505-520 (سفاہت 8/8, بیوقوف 2/2, حماقت 1/1, پاگل 3/3, باطل 7/7, فاسد 5/5, جہالت/اندھا/عمیان/مضحکہ/افیونی/چکمہ/بگھار all matched), glosses 16x \"کا مطلب\" + 4x \"کہتے ہیں\" (20) after COORDINATOR FIX-UP: worker's pass was thin (3+4=7; v4/v3 ratio 1.009) and missed first-use fiqh terms — 13 glosses inserted by me (سفاہت، تمسک 35x، ثمن، مبیع، قبض، ربا، شبہہ، کراہت، اصطلاح، وثیقہ، فلوس، بفتحِ ہمزہ، عروض) + v3's closing meta-sentence deleted (\"اور یہیں صفحہ 520 پر یہ حصہ تمام ہوتا ہے، ردِّ وہم کا بقیہ اگلے صفحات میں جاری ہے\" — NOT in the original, v3 editorial; Jild 16 leaf-09/10 precedent), \"جاری ہے\" now x0, 0 markers. Worker SHA 378cf6cb… SUPERSEDED; fixed SHA 3ca07c8d…. Seam: jawab ends \"...تصویب کا مطلب ہے قول کے ہو جانے کے بعد اسے درست بتانا۔\" (clean join into part 2)."
+  },
+  {
+   "chunk": "10a",
+   "description": "Jild 17, pp. 521-560",
+   "end_page": 560,
+   "file": "jild-17-chunk-10a.json",
+   "items": 1,
+   "pages_present": 40,
+   "start_page": 521,
+   "status": "done",
+   "verified": "2026-11-18 ~14:42 PKT — coordinator verified (fix-up): 1 item, masala-219 part 2 [521-560] (40pp, 17 p-items), sawal 0, jawab 74,436 (was 70,206; +4,230 from 82 inserted gloss clauses only — worker proved insert-only by script, removing all 82 reproduces the pre-fix-up text byte-for-byte), notes 40 = merged 13-52 verbatim, ids/titles/pages == merged v3, vol 53, sp==min, glosses 70x 'کا مطلب' + 20x 'کہتے ہیں' (90) — was 0+6=6, A1=0 (32 opponent-verb fixes from the first pass intact; Gangohi 2x + Nazir Hussain 1x with plain verbs), 'جاری ہے' x0, 0 markers. A3 spot-check: all 23 checked words glossed at first use in this part (ثمن، مثلی، قیمتی، تقوم، مناط، حیلہ، قضاءً/دیانۃً، ربا، مقاصد، ممکن، کراہت، عینہ، مبیع، قرض، شبہہ، جنس، قبض، بالاجماع، معتمد، لازم، وہم، تصویب + extras عرف/اصطلاح/تفاضل/مکیل/موزون/معدود/دائن/مدیون/اتلاف/تاوان/جبر/تحقق/نص); ثمن اصطلاحی already defined definitionally in the text itself; adjudicated plain/absent: سلم (0 standalone), صرف (only adverb), تنزیہ/ذمہ/معروف/مشاع/معدوم (0 in jawab), مقدار (only inside قلیل المقدار). PUA p.556 flagged in verbatim note 48. Seam: opens 'یہ صفحہ پچھلے حصے کی بحث کا تتمہ ہے: مخالف کے فتوے کے لفظ مصوب…', ends '…صلی اللہ تعالیٰ علیہ وآلہ وسلم پر ہر کلام کے اول و آخر میں، آمین۔' Worker SHA b759e5fc… SUPERSEDED; fixed SHA a51ec8b9…."
+  },
+  {
+   "chunk": "10",
+   "description": "Jild 17, pp. 561-567",
+   "end_page": 567,
+   "file": "jild-17-chunk-10.json",
+   "items": 3,
+   "pages_present": 7,
+   "start_page": 561,
+   "status": "done",
+   "verified": "2026-11-18 ~14:37 PKT — coordinator verified: 3 items (masala-220 [561-563], masala-221 [563], masala-222 [563-567]), pp.561-567, ids/titles/pages == v3 (all 17 leaf-10a p-items omitted), vol 53, sp==min, 0 empty sawal/jawab, notes 11 vs 9 (+2 added: (ت) Urdu tarjuma marker on 220; آنہ/پائی units + 14/97 arithmetic on 222), glosses 93x 'کا مطلب' + 1x 'کہتے ہیں' (94), A1=0, A2: original pp.561-567 contains ZERO standalone harsh terms (raw کتا hits are موزوں کا/سکتاہے/چاہیں substrings), 'جاری ہے' x0, 0 markers. Restorations: all 14 Arabic reference passages now in Arabic with «» (v3 had Urdu only); all figures verified. SHA f426e748…."
+  },
+  {
+   "chunk": "11",
+   "description": "Jild 17, pp. 569-613",
+   "end_page": 613,
+   "file": "jild-17-chunk-11.json",
+   "items": 29,
+   "pages_present": 44,
+   "start_page": 569,
+   "status": "done",
+   "verified": "2026-11-18 ~14:37 PKT — coordinator verified: 29 items, pp.569-613, fold masala-255 [610,611,612,613] (sawal 130, jawab 6,221, notes 6 = 5 + 1 added fold note; meta 'بحث جاری ہے' bridge removed), ids/titles/pages == v3 basis, vol 53, sp==min, 0 empty jawab, notes 31 vs 29 (+2: fold note + p.596-missing note on 244), glosses 16x 'کا مطلب' + 321x 'کہتے ہیں' (337), A1=0, A2: مردود 2→3, نافہمی 1→2, بیگانگی 1→2, مہمل 1→2, سروپا 1→2, جاہلانہ 1→1, کافر 3→3 (extras are definitional glosses only), 'جاری ہے' x1 legitimate (244 'عرف جاری ہے' — original's wording), 0 markers. Restorations: تجارت عن تراض ayah added inline where v3 gave Urdu only (233, 237-239, 250, 255); احل اللہ البیع وحرم الربا (251, 253-254); 2:275 قالوا انما البیع مثل الربا… (255, from orig p.613). Flags: PUA U+E01E on pp.579/582/606/611 (Quran-verse-end mark) — flagged in v3 notes, no reconstruction; original has NO p.596 (243 ends p.595, 244 starts p.597 — noted on 244). SHA de3d74f8…."
+  },
+  {
+   "chunk": "12",
+   "description": "Jild 17, pp. 613-670",
+   "end_page": 670,
+   "file": "jild-17-chunk-12.json",
+   "items": 23,
+   "pages_present": 55,
+   "start_page": 613,
+   "status": "done",
+   "verified": "2026-11-18 ~14:37 PKT — coordinator verified: 23 items, pp.613-670, fold jild17-280 [657-670] (sawal 2,642, jawab 15,020, notes 8 = 7 + 1 added fold note; v3 '[یہ مسئلہ صفحہ ۶۶۰ سے آگے جاری ہے…]' marker dropped, second half re-opened as 'کفالت بالمال کے مطالبے کو رد کرنے کی دوسری وجہ یہ ہے کہ…'), ids/titles/pages == v3 basis (jild17-255 excluded), vol 53, sp==min, 0 empty sawal/jawab, notes 55 vs 54 (+1), glosses 145x 'کا مطلب' + 2x 'کہتے ہیں' (147), A1=0, A2: no genuine harsh epithets in orig pp.612-670 (کتا hits are سکتا ہے/کتاب substrings; کافر/کافروں only in the Quranic بیع-vs-سود quote, kept verbatim in 256/260), 'جاری ہے' x3, ALL legitimate (266 'جو ان بائعوں میں جاری ہے', 280 'لوگوں کا کلام جاری ہے' + 'یہ حیلہ اس بنیاد پر جاری ہے' — original's own sentences), 0 markers. Note: 280b's v3 note 'اس حصے میں صرف اس کے جواب کا بقیہ ہے' kept verbatim — now historical (stale split-meta class). SHA bd012734…."
+  },
+  {
+   "chunk": "13",
+   "description": "Jild 17, pp. 670-715",
+   "end_page": 715,
+   "file": "jild-17-chunk-13.json",
+   "items": 12,
+   "pages_present": 46,
+   "start_page": 670,
+   "status": "done",
+   "verified": "2026-11-18 ~14:37 PKT — coordinator verified: 12 items, pp.670-715, ids/titles/pages == v3 basis (jild17-280 excluded), vol 53, sp==min, 0 empty jawab, notes 30 vs 28 (+2 added, both on 292), glosses 193x 'کا مطلب' + 43x 'کہتے ہیں' (236), A1=1 flag, false positive (فرمایا belongs to دارالافتاء اہل سنت بریلی; علمائے رامپور get plain 'لکھا'), A2: مردود p.677, مجہول pp.674-675/677, کافر p.715 → کفار in 298, غلط بیانی p.702 + فریب, باطل throughout, 'جاری ہے' x1 legitimate (288 'لوگوں کا تعامل جاری ہے' — original's sentence, gloss follows), 0 markers. Restorations: 292 Persian couplet (orig p.706) + محتال علیہ/محتال لہ placement clarified (محتال علیہ = بدری پرشاد، محتال لہ = منوسنگھ دائن), both documented in the 2 added notes. Note: 290's 'مفتی صاحب نے تحریر فرمایا' kept — the Rampur diwani mufti, not a Deobandi opponent. SHA 509e90d8…."
+  }
+ ],
+ "total_pages_present": 636,
+ "total_unique_pages": 630,
+ "volume": "Jild 17",
+ "volume_ids": [
+  53
+ ]
+}
